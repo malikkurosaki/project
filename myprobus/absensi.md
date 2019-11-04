@@ -8,3 +8,5 @@ absensi
 - database online
 - absensi realtime
 - keamanan menggunakan nomer mesin dati hostpot yang tidak bisa ditiru
+- waktu menggunakan waktu server bukan waktu pada device yang bisa dirubah
+
