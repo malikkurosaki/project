@@ -64,6 +64,52 @@
     - sofware perhotelan adalah probus
     - sofware pos adalah probus
     
+    
+### REferency video 
+
+
+https://www.youtube.com/watch?v=abiaOTuBemk
+
+
+https://www.youtube.com/watch?v=A1WOE5puKno
+
+
+https://www.youtube.com/watch?v=8MWMFFRspgg
+
+https://www.youtube.com/watch?v=7Glc2mHLPRM
+
+https://www.youtube.com/watch?v=7tz4Ya6gzG4
+
+https://www.youtube.com/watch?v=LIqQNG_q2us
+
+https://www.youtube.com/watch?v=b9dj9gj8A2E
+
+https://www.youtube.com/watch?v=ku_WaHQ76Po
+
+https://www.youtube.com/watch?v=qSm4n1h4YJw
+
+https://www.youtube.com/watch?v=c83-7MR_aL0
+
+https://www.youtube.com/watch?v=oRvyulJcBW4
+
+https://www.youtube.com/watch?v=JkkktGLpvsQ
+
+https://www.youtube.com/watch?v=yXQdSvmWlJM
+
+https://www.youtube.com/watch?v=QICZu03122w
+
+https://www.youtube.com/watch?v=M1lkpRsyOmM
+
+
+https://youtu.be/Tkjzq9z0TCo
+
+https://www.facebook.com/nasdaily/videos/294898577839835/
+
+// music nya 
+https://www.youtube.com/watch?v=f2bXIBxWOMI
+
+https://www.youtube.com/watch?v=X5c83Uixoj8
+    
 
 _setiap video dan gambar akan menjadi properti perusahaan dan dimasukkan kedalam digital asset sebagai bahan pengembangan perusahaan_
     
