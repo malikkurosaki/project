@@ -36,10 +36,12 @@ https://presto-online.barongpos.com/api/getDept
 __Fb Home__
 
 - outlet > kode outlet
+- date > tanggal
+- dept > nama dept
 
-https://presto-online.barongpos.com/api/homeFb/outlet
+https://presto-online.barongpos.com/api/homeFb/outlet?date=:date&dept=:dept
 
-```json
+```javascript
 [{"title":"gross","today":"0","yesterday":"0"},{"title":"net","today":"0","yesterday":"0"},{"title":"bills","today":"0","yesterday":"0"},{"title":"diskon","today":"0","yesterday":"0"},{"title":"compliment","today":"0","yesterday":"0"},{"title":"food","today":"0","yesterday":"0"},{"title":"beverage","today":"0","yesterday":"0"},{"title":"sisha","today":"0","yesterday":"0"},{"title":"other","today":"0","yesterday":"0"},{"title":"avgpax","today":"0","yesterday":"0"},{"title":"avgbill","today":"0","yesterday":"0"}]
 ```
 
