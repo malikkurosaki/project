@@ -131,10 +131,11 @@ https://presto-online.barongpos.com/api/salesTrafic/outlet
 
 __report revenue__
 
+- date > tnggal
 - outlet > kode outlet
 - office > nama dept
 
-https://presto-online.barongpos.com/api/reportDailyRevenue?date=:date&office=:office?outlet=:outlet
+https://presto-online.barongpos.com/api/reportDailyRevenue?date=:date&office=:office&outlet=:outlet
 
 ---
 
