@@ -85,7 +85,7 @@ https://presto-online.barongpos.com/api/salesTrafic/outlet
 
 ---
 
-__ report revenue__
+__report revenue__
 
 - outlet > kode outlet
 - office > nama dept
