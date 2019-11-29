@@ -232,22 +232,26 @@ https://presto-online.barongpos.com/api/ajaxBestOutlet?date=2019-11-28&outlet=CR
 
 --- 
 
-__ajax sales product__
+__ajax sales product food__
 
 - date > tanggal
 - outlet > kode outlet
+- type > food / beverage
 - tipe 
   - mtd
   - dtd
 - default mtd
 
-https://presto-online.barongpos.com/api/ajaxSellProduct?date=:date&outlet=:outlet&tipe=:tipe
+https://presto-online.barongpos.com/api/ajaxSellProduct?date=2019-11-28&outlet=&tipe=YTD&type=food
 
 _contoh_
 
-https://presto-online.barongpos.com/api/ajaxSellProduct?date=2019-11-28&outlet=&tipe=YTD
+https://presto-online.barongpos.com/api/ajaxSellProduct?date=2019-11-28&outlet=&tipe=YTD&type=food
 
 
+```json
+[{"label":"BOX REGULAR","value":"8935.00"},{"label":"BOX PERSONAL","value":"4739.00"},{"label":"MARGHERITA REGULAR.","value":"4573.00"},{"label":"MARGARITA PERS.","value":"3113.00"},{"label":"PEPPERONI REGULAR.","value":"2807.00"},{"label":"TUNA SALAD","value":"1918.00"},{"label":"HAWAIIANA REGULAR.","value":"1816.00"},{"label":"FRENCH FRIES LARGE","value":"1595.00"},{"label":"BBQ CHICKEN REGULAR.","value":"1514.00"},{"label":"CHEESE CROQUETTE LARGE","value":"1370.00"}]
+```
 
 ---
 
