@@ -33,7 +33,8 @@ https://presto-online.barongpos.com/api/getDept
 
 ---
 
-__Fb Home__
+
+1. __Fb Home__
 
 - outlet > kode outlet
 - date > tanggal
@@ -51,7 +52,7 @@ https://presto-online.barongpos.com/api/homeFb/all?date=2019-11-28&dept=all
 
 ---
 
-__payment fb__
+2. __payment fb__
 
 - outlet > kode outlet
 
@@ -67,7 +68,7 @@ https://presto-online.barongpos.com/api/paymentFb/all?date=2019-11-28&dept=all
 
 ---
 
-__product sales beverage__
+3. __product sales beverage__
 
 - outlet > kode outlet
 - date > tanggal
@@ -85,7 +86,7 @@ _contoh_
 
 ---
 
-__product sales food__
+4. __product sales food__
 
 - outlet > kode outlet
 - date > tanggal
@@ -103,7 +104,7 @@ _contoh_
 
 ---
 
-__transaction Summary__
+5. __transaction Summary__
 
 - outlet > kode outlet
 
@@ -119,7 +120,7 @@ https://presto-online.barongpos.com/api/transactionSummary/all?date=2019-11-28&d
 
 ---
 
-__sales performance__
+6. __sales performance__
 
 - outlet > kode outlet
 - date > tanggal
@@ -137,7 +138,7 @@ https://presto-online.barongpos.com/api/salesPerformance/all?date=2019-11-28&dep
 
 ---
 
-__sales trafic__
+7. __sales trafic__
 
 - outlet > kode outlet
 - date > tanggal
@@ -155,7 +156,7 @@ https://presto-online.barongpos.com/api/salesTrafic/all?date=2019-11-28&dept=all
 
 ---
 
-__report revenue__
+7. __report revenue__
 
 - date > tnggal
 - outlet > kode outlet
@@ -174,7 +175,7 @@ https://presto-online.barongpos.com/api/reportDailyRevenue?date=2019-11-28&offic
 
 ---
 
-__report Product Favorite__
+9. __report Product Favorite__
 
 - date > tanggal
 - outlet > nama dept
@@ -193,7 +194,7 @@ https://presto-online.barongpos.com/api/reportProductFav?date=2019-11-28&outlet=
 
 ---
 
-__report kasir__
+10. __report kasir__
 
 - date > tanggal
 - seOutlet > nama dept
@@ -210,7 +211,7 @@ https://presto-online.barongpos.com/api/reportKasir?date=2019-11-28&setOutlet=al
 
 ---
 
-__ajax best outlet__
+11. __ajax best outlet__
 
 - data > tanggal 
 - outlet > kode outlet
@@ -232,7 +233,7 @@ https://presto-online.barongpos.com/api/ajaxBestOutlet?date=2019-11-28&outlet=CR
 
 --- 
 
-__ajax sales product food or beverage__
+12. __ajax sales product food __
 
 - date > tanggal
 - outlet > kode outlet
@@ -255,7 +256,30 @@ https://presto-online.barongpos.com/api/ajaxSellProduct?date=2019-11-28&outlet=&
 
 ---
 
-__ajax analisis by time__
+13. __ajax sales product beverage__
+
+- date > tanggal
+- outlet > kode outlet
+- type > food / beverage
+- tipe 
+  - mtd
+  - dtd
+- default mtd
+
+https://presto-online.barongpos.com/api/ajaxSellProduct?date=2019-11-28&outlet=&tipe=YTD&type=beverage
+
+_contoh_
+
+https://presto-online.barongpos.com/api/ajaxSellProduct?date=2019-11-28&outlet=&tipe=YTD&type=beverage
+
+
+```json
+[{"label":"BOX REGULAR","value":"8935.00"},{"label":"BOX PERSONAL","value":"4739.00"},{"label":"MARGHERITA REGULAR.","value":"4573.00"},{"label":"MARGARITA PERS.","value":"3113.00"},{"label":"PEPPERONI REGULAR.","value":"2807.00"},{"label":"TUNA SALAD","value":"1918.00"},{"label":"HAWAIIANA REGULAR.","value":"1816.00"},{"label":"FRENCH FRIES LARGE","value":"1595.00"},{"label":"BBQ CHICKEN REGULAR.","value":"1514.00"},{"label":"CHEESE CROQUETTE LARGE","value":"1370.00"}]
+```
+
+---
+
+14. __ajax analisis by time__
 
 - date > tanggal
 - outlet > kode outlet
@@ -276,7 +300,7 @@ https://presto-online.barongpos.com/api/ajaxAnalisisByTime?date=2019-11-28&outle
 
 ---
 
-__ajax avarage__
+15. __ajax avarage__
 
 - date > tanggal
 - outlet kode outlet
