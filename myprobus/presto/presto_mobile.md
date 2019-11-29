@@ -232,7 +232,7 @@ https://presto-online.barongpos.com/api/ajaxBestOutlet?date=2019-11-28&outlet=CR
 
 --- 
 
-__ajax sales product food__
+__ajax sales product food or beverage__
 
 - date > tanggal
 - outlet > kode outlet
