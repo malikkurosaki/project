@@ -62,3 +62,5 @@ contoh :
 
 {{"key":"value"},{"key":"value"}}
 ```
+
+sebisa mungkin hal sepele kita antisipasi sedini mungkin , jangan sampai ketika setelah di tangan client , terjadi error padahal bisa antisipasi sejak dini
