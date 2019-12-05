@@ -27,3 +27,9 @@ contoh :
 
 diharapkan untuk kedepan bisa dikerjakan dengn serapi mungkin , dan seefesien mungkin , aga bisa mempercepat pengerjaan project
 dan terapkan standarnya 
+
+dan perjayalah , selain di php itu pengerjaan dan pemecahan API sangat sangat ribet, nguras waktu dan pikiran 
+dari pembentukan class dr setiap api , pembuatan objek dari isi api secara manual, sampai pencocokan setiap detailnya secara manual ke 
+layout, setitik kesalahan di api , bisa berakibat trcker bug sampai 2 hari , pembuautan api asal asalan project yang seharusnya bisa
+dikerjakan sebulan bisa molor 2 bulan hanya untuk mencocokan api yang tidak sistematik dan asal jadi , 
+setiap kejadian akan di record dan menjadikan kita lebih profetional dengan standar kerja
