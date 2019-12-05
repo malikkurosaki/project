@@ -13,6 +13,7 @@ cotoh :
 
 - nama layout : Report Overview
 - apinya : https://presto-online.barongpos.com/api/homeFb/:outlet?date="date&dept=:dep
+- pinya : https://presto-online.barongpos.com/api/ajaxSellProduct?date=:date&outlet=:outlet&tipe=:tipe
 
 antara api dan nama tidak berhubungan sama sekali , jika hanya mengerjakan project yang membutuhkan api 1,
 tidak lah masalah , jika da 10 api , akan sangan memakan waktu dan sumberdaya pengingatan yang seharusnya,
