@@ -16,7 +16,7 @@ cotoh :
 - pinya : https://presto-online.barongpos.com/api/ajaxSellProduct?date=:date&outlet=:outlet&tipe=:tipe
 
 antara api dan nama tidak berhubungan sama sekali , jika hanya mengerjakan project yang membutuhkan api 1,
-tidak lah masalah , jika da 10 api , akan sangan memakan waktu dan sumberdaya pengingatan yang seharusnya,
+tidak lah masalah , jika ada 10  api lebih , akan sangan memakan waktu dan sumberdaya yang seharusnya,
 bisa dialihkan untuk mengerjakan hal lainnya 
 
 ### do
@@ -27,7 +27,7 @@ contoh :
 - https://presto-online.barongpos.com/api/ReportOverview?outlet=:outlet&date=:date&dept=:dep
 
 diharapkan untuk kedepan bisa dikerjakan dengn serapi mungkin , dan seefesien mungkin , aga bisa mempercepat pengerjaan project
-dan terapkan standarnya 
+dan terapkan standarnya , antara satu bahasa pemprograman metodnya akan saangat berbeda , jangan bayangkan jika semua bahasa pemprograman itu semua methodnya sama , sangat penting untuk saling mensinkronkan,
 
 __semua data adalah string__
 
