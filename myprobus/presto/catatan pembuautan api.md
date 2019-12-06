@@ -65,4 +65,6 @@ contoh :
 
 jika berhadapan dengan int atau integer atau angka , maka defaultnya untuk nilai terkecil adalah "0" noll , bukan " ", (kosong) atau empty, karena mesin tidak mengerti angka yang empty , empty hanya untuk list, dan default angka adalah `0`
 
-sebisa mungkin hal sepele kita antisipasi sedini mungkin , jangan sampai ketika setelah di tangan client , terjadi error padahal bisa antisipasi sejak dini
+sebisa mungkin hal sepele kita antisipasi sedini mungkin , jangan sampai ketika setelah di tangan client , terjadi error padahal bisa antisipasi sejak dini, 
+
+catatan ini dibuat sebagai bahan pembelajaran note dan catatan agar mempermudadh project kedepannya, silahkan tambahkan jika ada yg perlu ditambahkan , 
