@@ -52,6 +52,8 @@ __setiap api adalah per layout single dimentional__
 contoh : 
 
 ```javascript
+
+// lakukan
 [{"key":"val"},{"key":"val"}] seterusnya
 
 // jangan
